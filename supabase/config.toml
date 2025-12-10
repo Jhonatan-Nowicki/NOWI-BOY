@@ -1,0 +1,4 @@
+project_id = "uzorntysmnnpwnqrymjk"
+
+[functions.ler-comanda]
+verify_jwt = true
